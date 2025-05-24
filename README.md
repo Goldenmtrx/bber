@@ -1,3 +1,2 @@
 # bber
-bd
 laykhlik lia
